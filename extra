@@ -1,0 +1,2 @@
+Requirement
+npm i bryptjs cors mongoose jsonwebtoken express
